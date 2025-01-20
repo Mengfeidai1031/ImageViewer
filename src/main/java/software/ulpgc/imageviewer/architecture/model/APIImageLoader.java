@@ -1,4 +1,4 @@
-package software.ulpgc.imageviewer.model;
+package software.ulpgc.imageviewer.architecture.model;
 
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;

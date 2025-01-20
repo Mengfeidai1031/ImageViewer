@@ -1,7 +1,7 @@
-package software.ulpgc.imageviewer.control;
+package software.ulpgc.imageviewer.architecture.control;
 
-import software.ulpgc.imageviewer.model.Image;
-import software.ulpgc.imageviewer.view.ImageViewerDisplay;
+import software.ulpgc.imageviewer.architecture.model.Image;
+import software.ulpgc.imageviewer.architecture.view.ImageViewerDisplay;
 
 public class ImageViewerController {
     private final ImageViewerDisplay display;

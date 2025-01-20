@@ -1,6 +1,6 @@
-package software.ulpgc.imageviewer.view;
+package software.ulpgc.imageviewer.architecture.view;
 
-import software.ulpgc.imageviewer.model.Image;
+import software.ulpgc.imageviewer.architecture.model.Image;
 import java.awt.event.ActionListener;
 
 public interface ImageViewerDisplay {

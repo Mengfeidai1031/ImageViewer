@@ -1,4 +1,4 @@
-package software.ulpgc.imageviewer.model;
+package software.ulpgc.imageviewer.architecture.model;
 
 public interface Image {
     String name();
@@ -9,4 +9,3 @@ public interface Image {
 
     enum Format { jpg, png }
 }
-
